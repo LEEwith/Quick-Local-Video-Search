@@ -10,7 +10,9 @@ Everyone can use it on loptop, phone. </br>
 This application is base on AgularJS, HTML5, Broothtrap.
 Using the [daily Motion Video API](http://www.dailymotion.com/us) to search local video.
 
-The applicaon hosts on [heroku.com]()
+<p align="center">
+  <img src="giphy.gif" />
+</p>
 
 ## Get Started And Basics
 
