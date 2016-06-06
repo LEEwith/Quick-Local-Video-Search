@@ -19,6 +19,9 @@ The applicaon hosts on [heroku.com]()
 - You will be redirected the video list page. Every cards will show a thumnail image to browse. You can enter the video by clicking title word.
 - In footer part, you can contact me by phone and email if you want to own the web page like this.
 
+![alt tag](Quick-Local-Video-Search/giphy.gif)
+
+
 ## License
 
 Copyright 2015 LEE 
