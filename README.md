@@ -10,9 +10,7 @@ Everyone can use it on loptop, phone. </br>
 This application is base on AgularJS, HTML5, Broothtrap.
 Using the [daily Motion Video API](http://www.dailymotion.com/us) to search local video.
 
-<p align="center">
-  <img src="giphy.gif" />
-</p>
+
 
 ## Get Started And Basics
 
@@ -21,8 +19,9 @@ Using the [daily Motion Video API](http://www.dailymotion.com/us) to search loca
 - You will be redirected the video list page. Every cards will show a thumnail image to browse. You can enter the video by clicking title word.
 - In footer part, you can contact me by phone and email if you want to own the web page like this.
 
-![alt tag](Quick-Local-Video-Search/giphy.gif)
-
+<p align="center">
+  <img src="animation.gif" />
+</p>
 
 ## License
 
