@@ -20,7 +20,7 @@ Using the [daily Motion Video API](http://www.dailymotion.com/us) to search loca
 - In footer part, you can contact me by phone and email if you want to own the web page like this.
 
 <p align="center">
-  <img src="animation.gif" />
+  <img src="angularapp.gif" />
 </p>
 
 ## License
