@@ -9,6 +9,7 @@ Everyone can use it on loptop, phone. </br>
 
 This application is base on AgularJS, HTML5, Broothtrap.
 Using the [daily Motion Video API](http://www.dailymotion.com/us) to search local video.
+See [App page](https://vedioquicksearch.firebaseapp.com/)
 
 
 
